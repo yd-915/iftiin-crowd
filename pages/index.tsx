@@ -29,18 +29,18 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>⚡️ Sats Starter</title>
+        <title>Iftiin-Crowd</title>
         <meta
           name="description"
-          content="Launch your crowdfunding campaign without intermediaries"
+          content="P2P Crowdfunding Campaigns"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <section className="hero is-medium is-primary">
         <div className="hero-body">
-          <h1 className="title">⚡️ Sats Starter</h1>
+          <h1 className="title">Iftiin-Crowd</h1>
           <p className="subtitle">
-            Launch your crowdfunding campaign without intermediaries
+          P2P Crowdfunding Campaigns
           </p>
         </div>
       </section>
