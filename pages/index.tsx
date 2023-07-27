@@ -52,7 +52,7 @@ export default function Home() {
               <ProjectCard
                 title="🎸 New guitar"
                 description="want to become a rockstar"
-                imageSrc={`${basePath}/images/guitar.jpg`}
+                imageSrc={`${basePath}/images/project.jpg`}
                 author="alice"
                 beneficiary="00143801cbe7007c4ce139ef7a48f492f239f700c315"
                 onContributionClick={onContributionClick}
